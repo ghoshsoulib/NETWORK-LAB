@@ -1,0 +1,265 @@
+PLEASE ENTER MINIMUM DELAY:1000
+PLEASE ENTER MAXIMUM DELAY:10000
+PERCENTAGE OF ERROR: 5
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   0
+	Content:  10011001
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   0
+	CONTENT:  00011001
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   0
+	Content:  10011001
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   0
+	CONTENT:  10011101
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   0
+	Content:  10011001
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   0
+	CONTENT:  10011001
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   1
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   1
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   1
+	Content:  11100010
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   1
+	CONTENT:  11100010
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   0
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   0
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   0
+	Content:  00100100
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   0
+	CONTENT:  00100100
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   1
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   1
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   1
+	Content:  10000100
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   1
+	CONTENT:  10000000
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   1
+	Content:  10000100
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   1
+	CONTENT:  10000100
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   0
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   0
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   0
+	Content:  11101011
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   0
+	CONTENT:  11101011
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   1
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   0
+	Content:  11101011
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   0
+	Content:  11101011
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   0
+	CONTENT:  11101011
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   1
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   0
+	CONTENT:  11101011
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   1
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   1
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   1
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   1
+----------------------------------------------------
+----------------------------------------------------
+Frame recieved FROM SENDER ready to send 
+in the reciever side
+	SENDER:   1
+TYPE OF FRAME :    DATA BYTE
+	NUMBER:   1
+	Content:  11111110
+----------------------------------------------------
+----------------------------------------------------
+FROM SENDER READY TO GO TO RECIEVER
+	 SENDER:   1
+TYPE :    DATA BYTE
+	NUMBER:   1
+	CONTENT:  11111110
+----------------------------------------------------
+----------------------------------------------------
+FROM RECIEVER
+Sender:   2
+Type :     ACKNOWLEDGEMENT
+	NUMBER:   0
+----------------------------------------------------
+----------------------------------------------------
+FRAME READY TO GO ON THE SENDER SIDE
+	Sender:   2
+	TYPE :    	 ACKNOWLEDGEMENT 
+	Number:   0
+----------------------------------------------------
+
